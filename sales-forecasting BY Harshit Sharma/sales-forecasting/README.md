@@ -3,7 +3,6 @@
 A beginner-friendly end-to-end sales forecasting project using real-world retail data patterns. Predicts future sales using three different time-series models and visualizes the results beautifully.
 
 ![Python](https://img.shields.io/badge/Python-3.9+-blue?logo=python)
-![License](https://img.shields.io/badge/License-MIT-green)
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
 
 ---
@@ -137,12 +136,6 @@ Lower is always better for all three!
 
 ---
 
-##  License
-
-MIT License — free to use, modify, and share.
-
----
-
 ##  Author
 
-Made with  as a learning project. If this helped you, give it a  on GitHub!
+Made by Harshit Sharma as a learning & Internship project for Codec Technologies, India.
